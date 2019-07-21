@@ -10,7 +10,7 @@ Kodumuzu etkin ve kolay bir şekilde dağıtmak için composer kullanıyoruz. Za
 Komut Satırını Açarak Bunu Yazıyoruz
 
 ```sh
-composer require zedmarley/instagram-photo-upload
+git clone https://github.com/zedmarley/instagram-photo-upload.git
 ```
 Buradan Bana Ulaşabilirsiniz.[here](https://instagram.com/zedmarley1).
 ## EN
@@ -22,7 +22,7 @@ We use composer to distribute our code effectively and easily. If you do not alr
 
 Once you have composer installed, you can do the following:
 ```sh
-composer require mgp25/instagram-php
+git clone https://github.com/zedmarley/instagram-photo-upload.git
 ```
 
 You can reach me here.[here](https://instagram.com/zedmarley1).
